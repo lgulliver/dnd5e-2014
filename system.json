@@ -9,11 +9,16 @@
   },
   "url": "https://github.com/lgulliver/dnd5e-2014/",
   "manifest": "https://raw.githubusercontent.com/lgulliver/dnd5e-2014/master/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-3.3.1/dnd5e-release-3.3.1.zip",
+  "download": "https://github.com/lgulliver/dnd5e-2014/releases/download/release-3.3.1/dnd5e-release-3.3.1.zip",
   "authors": [
     {
       "name": "Atropos",
       "url": "https://foundryvtt.com",
+      "flags": {}
+    },
+    {
+      "name": "lgulliver",
+      "url": "https://github.com/lgulliver/dnd5e-2014",
       "flags": {}
     }
   ],
@@ -27,7 +32,7 @@
     {
       "name": "heroes",
       "label": "Starter Heroes",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/heroes",
       "type": "Actor",
       "private": false,
@@ -40,7 +45,7 @@
     {
       "name": "monsters",
       "label": "Monsters (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/monsters",
       "type": "Actor",
       "private": false,
@@ -53,7 +58,7 @@
     {
       "name": "items",
       "label": "Items (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/items",
       "type": "Item",
       "private": false,
@@ -66,7 +71,7 @@
     {
       "name": "tradegoods",
       "label": "Trade Goods (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/tradegoods",
       "type": "Item",
       "private": false,
@@ -79,7 +84,7 @@
     {
       "name": "spells",
       "label": "Spells (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/spells",
       "type": "Item",
       "private": false,
@@ -92,7 +97,7 @@
     {
       "name": "backgrounds",
       "label": "Backgrounds (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/backgrounds",
       "type": "Item",
       "private": false,
@@ -105,7 +110,7 @@
     {
       "name": "classes",
       "label": "Classes (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/classes",
       "type": "Item",
       "private": false,
@@ -118,7 +123,7 @@
     {
       "name": "subclasses",
       "label": "Subclasses (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/subclasses",
       "type": "Item",
       "private": false,
@@ -131,7 +136,7 @@
     {
       "name": "classfeatures",
       "label": "Class & Subclass Features (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/classfeatures",
       "type": "Item",
       "private": false,
@@ -144,7 +149,7 @@
     {
       "name": "races",
       "label": "Races (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/races",
       "type": "Item",
       "private": false,
@@ -157,7 +162,7 @@
     {
       "name": "monsterfeatures",
       "label": "Monster Features (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/monsterfeatures",
       "type": "Item",
       "private": false,
@@ -170,7 +175,7 @@
     {
       "name": "rules",
       "label": "Rules (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/rules",
       "type": "JournalEntry",
       "private": false,
@@ -181,7 +186,7 @@
     {
       "name": "tables",
       "label": "Tables (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5e-2014",
       "path": "packs/tables",
       "type": "RollTable",
       "private": false,
