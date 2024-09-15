@@ -9,7 +9,7 @@
   },
   "url": "https://github.com/lgulliver/dnd5e-2014/",
   "manifest": "https://raw.githubusercontent.com/lgulliver/dnd5e-2014/master/system.json",
-  "download": "https://github.com/lgulliver/dnd5e-2014/releases/download/release-3.3.1/dnd5e-release-3.3.1.zip",
+  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-3.3.1/dnd5e-release-3.3.1.zip",
   "authors": [
     {
       "name": "Atropos",
